@@ -2,8 +2,8 @@
 /**
  * @file main.ino
  * @brief Embedded Force Measurement System using FSR
- * @author YOUR_NAME
- * @date YYYY-MM-DD
+ * @author Manish_Kumar
+ * @date 2026-02-09
  *
  * @details
  * Reads analog force data from FSR sensor and
